@@ -1,5 +1,5 @@
 # Inception
-Inception is a project undertaken as part of the curriculum of 42 schools. This project allows you to discover and become familiar with Docker and its tools. Of course, given that at 42 even an initiation is always pushed, ban on using ready-made containers. The entire project is carried out using docker "virgins" on which we are asked to choose between alpine and debian buster and to install and fully configure the tools we need.
+Inception is a project undertaken as part of the curriculum of 42 schools. This project allows you to discover and become familiar with Docker and its tools, building a functionnal local Wordpress website. Of course, given that at 42 even an initiation is always pushed, ban on using ready-made containers. The entire project is carried out using docker "virgins" on which we are asked to choose between alpine and debian buster and to install and fully configure the tools we need.
 
 ----
 
