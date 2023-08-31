@@ -6,17 +6,21 @@ Inception is a project undertaken as part of the curriculum of 42 schools. This 
 ## Launching Inception
 
 To see all available commands :
+
 ``make help``
 
 To start all the dockers (docker compose) :
+
 ``make``
 
 Une fois le projet lance, Open a browser and type :
+
 ``https://localhost``
 
-You will arrive on my “CV” static page. By clicking on the inception project present on the holygraph you will come across the configuration page giving you access to all the administration of the device.
+You will arrive on my “CV” static page dating from the time I was on the project. By clicking on the inception project present on the holygraph you will come across the configuration page giving you access to all the administration of the device.
 
 The default passwords, given that the project is for educational purposes, are in clear text in the .env file provided and are extremely insecure. You can modify logins and passwords as you wish.
+
 **Never post .env files or any other file containing real identifiers on a public page!**
 
 ----
@@ -36,10 +40,13 @@ The default passwords, given that the project is for educational purposes, are i
 
 ## Cleanup
 **Stop Inception & Clean inception docker (prune -f)**
+
 ``make clean``
 
 **To remove both the object files and the compiled library**:
+
 **Warning !** Remove all dockers on this system & Remove persistant datas
+
 ``make fclean``
 
 ----
